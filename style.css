@@ -225,7 +225,7 @@ a {
 
 .hero-title {
   margin: 0 0 var(--space-4);
-  max-width: 47rem;
+  max-width: 46rem;
   font-size: var(--fs-h1);
   line-height: 1.08;
   letter-spacing: -0.04em;
