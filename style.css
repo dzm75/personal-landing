@@ -602,8 +602,8 @@ a {
 }
 
 .footer-role {
-  margin: 0 0 var(--space-3);
-  font-size: 1rem;
+  margin: 0 0 var(--space-2);
+  font-size: 0.98rem;
   color: #aeb8c7;
 }
 
